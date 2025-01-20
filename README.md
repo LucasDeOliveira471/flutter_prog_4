@@ -1,16 +1,10 @@
-# myapp
+# Meu App 
+Um novo projeto Flutter.
 
-A new Flutter project.
+## Começando
+Este projeto é um ponto de partida para um aplicativo Flutter.
+Alguns recursos para você começar, se este for o seu primeiro projeto Flutter:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Laboratório: Escreva seu primeiro aplicativo Flutter] (https://docs.flutter.dev/get-started/codelab)
+- [Livro de receitas: Exemplos úteis de Flutter] (https://docs.flutter.dev/cookbook)
+Para obter ajuda para começar com o desenvolvimento Flutter, consulte a documentação online, que oferece tutoriais, exemplos, orientações sobre desenvolvimento móvel e uma referência completa da API.
